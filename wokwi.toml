@@ -1,0 +1,6 @@
+[wokwi]
+version = 1
+firmware = 'build/temporizador_periodico.uf2'
+firmware = 'build/temporizador_oneshot.uf2'
+elf = 'build/temporizador_periodico.elf'
+elf = 'build/temporizador_oneshot.elf'
